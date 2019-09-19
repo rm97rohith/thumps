@@ -1,7 +1,6 @@
-def add():
-    x=18
-    y=40
+def add(x,y):
     z=x+y
     print(z)
 
-add()
+add(100,80)
+add(70,145)
